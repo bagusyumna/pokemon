@@ -1,0 +1,9 @@
+.div-icon {
+    text-align: center;
+}
+
+@media screen and (max-width: 768px) {
+    .img-logo {
+        display: none;
+    }
+}
